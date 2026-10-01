@@ -1,7 +1,5 @@
 # Student Command Center
 
-#### Video Demo: https://youtu.be/tRFVZnr5N-0
-
 #### Description:
 
 Student Command Center is a Python command-line application designed to help students manage their academic information in one place. The application provides a simple menu-based interface for managing courses, assignments, exams, and grades. It also includes a Smart Planner and a Dashboard to give the student a clearer overview of their academic workload.
